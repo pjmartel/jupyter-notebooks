@@ -9,7 +9,7 @@ to be pip installed by mybinder when creating the container
 to run the notebook. If the requisites don't change, there
 docker container is simply reloaded, and not rebuilt.
 
-NOTE: never use the ephemeral links used by mybinder to bookmark
+**NOTE:** never use the ephemeral links used by mybinder to bookmark
 notebooks - they will be delete as soon as the container stops due
 to inactivity
 
