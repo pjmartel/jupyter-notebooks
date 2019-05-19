@@ -13,6 +13,6 @@ docker container is simply reloaded, and not rebuilt.
 notebooks - they will be delete as soon as the container stops due
 to inactivity
 
-Link: [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/pjmartel/jupyter-notebooks/blob/master/qgrid_test.ipynb)
+Link: [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/pjmartel/jupyter-notebooks/blob/master)
 
 
