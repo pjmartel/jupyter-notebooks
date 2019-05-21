@@ -13,11 +13,11 @@ docker container is simply reloaded, and not rebuilt.
 notebooks - they will be delete as soon as the container stops due
 to inactivity
 
-Link: [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/pjmartel/jupyter-notebooks/master?filepath=qgrid_test.ipynb)
+Testing qgrid: [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/pjmartel/jupyter-notebooks/master?filepath=qgrid_test.ipynb)
 
-Link: [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/pjmartel/jupyter-notebooks/master?filepath=direct_linear_plot.ipynb)
+Direct Linear Plot: [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/pjmartel/jupyter-notebooks/master?filepath=direct_linear_plot.ipynb)
 
-Link: [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/pjmartel/jupyter-notebooks/master?filepath=linear_regression_confidence.ipynb)
+Linear regression with confidence intervals: [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/pjmartel/jupyter-notebooks/master?filepath=linear_regression_confidence.ipynb)
 
 
 
