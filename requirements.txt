@@ -3,4 +3,6 @@ matplotlib
 scipy
 pandas
 qgrid
+seaborn
+
 
