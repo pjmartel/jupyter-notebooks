@@ -15,4 +15,9 @@ to inactivity
 
 Link: [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/pjmartel/jupyter-notebooks/master?filepath=qgrid_test.ipynb)
 
+Link: [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/pjmartel/jupyter-notebooks/master?filepath=direct_linear_plot.ipynb)
+
+Link: [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/pjmartel/jupyter-notebooks/master?filepath=linear_regression_confidence.ipynb)
+
+
 
